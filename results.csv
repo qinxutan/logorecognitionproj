@@ -1,0 +1,4 @@
+Query Image,Matched Reference Image,Score
+/Users/qinxutan/Documents/htxinternship/logorecognition/logos_full/test/query/Charles monat/download.jpg,/Users/qinxutan/Documents/htxinternship/logorecognition/logos_full/test/reference/Charles monat/download.jpg,"tensor([[0.5571]], grad_fn=<AddBackward0>)"
+/Users/qinxutan/Documents/htxinternship/logorecognition/logos_full/test/query/Charles & keith/cqc-charlesandkeith.jpg,/Users/qinxutan/Documents/htxinternship/logorecognition/logos_full/test/reference/Charles & keith/cqc-charlesandkeith.jpg,"tensor([[0.6734]], grad_fn=<AddBackward0>)"
+/Users/qinxutan/Documents/htxinternship/logorecognition/logos_full/test/query/Chartboost/chartboost-logo.jpg,/Users/qinxutan/Documents/htxinternship/logorecognition/logos_full/test/reference/Chartboost/chartboost-logo.jpg,"tensor([[0.7045]], grad_fn=<AddBackward0>)"
