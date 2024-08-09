@@ -35,5 +35,5 @@ This repository contains code for a **Siamese neural network** designed for logo
 ## **Contributors**
 - **Maintainer**: [Tan Qin Xu](https://github.com/qinxutan)
 
-License
+## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
